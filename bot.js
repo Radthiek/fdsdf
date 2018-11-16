@@ -84,5 +84,4 @@ if (message.content === '!spam') {
 
 
 
-client.login(process.env.TOKEN);// لا تغير فيها شيء
-client2.login(process.env.TOKEN2);// لا تغير فيها شيء
+client.login('NTAxNDc1NDM2ODI0NjI1MTU0.DruRZA.dmm6JclgsKza3sLTylDWaUKLNI8');// لا تغير فيها شيء
